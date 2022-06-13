@@ -1,3 +1,10 @@
-# Hello World in C++
+***********************
+my first C++ program in data structures class
+***********************
 
-This is a simple Hello World in C++ to help beginner programmers get started in C++.
+#ifndef COMMANDLINE_FUNCTIONS_H
+#define COMMANDLINE_FUNCTIONS_H
+
+
+
+#endif ??COMMANDLINE_FUNCTIONS_H
